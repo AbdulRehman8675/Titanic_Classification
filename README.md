@@ -1,5 +1,5 @@
 # Titanic_Classification
-Iris Species Classification:
+Titanic Survival Prediction:
 
-Description: The Iris Species Classification project involves building a machine learning model to classify iris flowers into three species: Setosa, Versicolor, and Virginica based on features such as sepal length, sepal width, petal length, and petal width.
-Goal: The goal of this project is to demonstrate how machine learning algorithms can be trained to accurately classify different species of iris flowers based on their physical characteristics.
+Description: Titanic Survival Prediction focuses on predicting whether a passenger on the Titanic would survive or not based on factors such as age, gender, ticket class, and family relations.
+Goal: This project aims to analyze historical data from the Titanic disaster to understand the factors that influenced survival rates and develop a predictive model that can estimate the likelihood of survival for passengers under similar circumstances.
